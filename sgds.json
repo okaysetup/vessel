@@ -1,0 +1,18 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_pon_63.mp3"},
+    "26":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_pon_63.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_kan_64.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_kan_64.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_chi_63.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_chi_63.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_rich_63.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_rich_63.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_ron_63.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_ron_63.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_tumo_63.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_tumo_63.mp3"},
+    "9":{"url":"https://raw.githubusercontent.com/okaysetup/vessel/main/sgds/act_babei_63.mp3"}
+  }
+}
